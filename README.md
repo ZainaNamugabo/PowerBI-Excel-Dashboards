@@ -27,16 +27,10 @@ An interactive dashboard that visualizes:
 - Average odometer readings
 - Car condition across makes
 
-#### 📸 Dashboard Preview
-
-![Car Sales Overview Dashboard](CARS%20BI.png)
-
 📌 **Tools Used**: Power BI, Power Query, DAX  
 📌 **Skills Demonstrated**: Time series analysis, bar/line/donut charts, advanced data modeling, custom visuals
 
----
-
-### 2. 🟢 **[Retail Sales Over view]** (Excel) *(Replace this with your actual Excel dashboard title)*
+### 2. 🟢 **Retail Sales Over view**
 
 A robust Excel dashboard featuring:
 - KPI tracking via PivotTables
@@ -61,7 +55,5 @@ A robust Excel dashboard featuring:
 - **Automation & Interactivity**
   - Use of slicers, drill-downs, conditional logic, and tooltips
 
----
 
-## 📁 Folder Structure
 
